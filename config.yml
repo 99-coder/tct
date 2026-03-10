@@ -37,6 +37,3 @@ LOCK_SYSTEM:
 #dashboard:
 #  user: admin
 #  password: tct-99
-
-#API_MODE: "testing"
-TEST_API_URL: "https://test.thebookiebasher.win"
